@@ -11,4 +11,4 @@ the accuracy came out to be 70% after 40 epochs
 
 Here is an example of the conversation with the bot:
 
-![alt text](![alt text](https://github.com/rishabh-vasudevan/chat-bot/blob/master/Screenshot%20from%202021-02-27%2005-32-37.png))
+![alt text]((https://github.com/rishabh-vasudevan/chat-bot/blob/master/Screenshot%20from%202021-02-27%2005-32-37.png)
